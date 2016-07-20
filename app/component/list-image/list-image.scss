@@ -1,0 +1,16 @@
+.list-image {
+  width: 180px;
+  display: inline-block;
+  background-color: green;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  img {
+    border: 10px solid black;
+  }
+
+  p {
+    overflow-wrap: break-word;
+  }
+
+}
